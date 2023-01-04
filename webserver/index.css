@@ -1,0 +1,40 @@
+body {
+	background-color: #3B4288;
+	color:white;
+	font-family: 'Archivo Black', sans-serif;
+	word-wrap: break-word;
+}
+
+.display-container {
+	display: flex;
+	height: auto;
+	width: 100vw;
+}
+
+.display {
+	margin: 5rem;
+	text-align: center;
+	background-color: #5B63D2;
+	border-radius: 8px;
+	padding: 20px;
+}
+
+.display p {
+	max-width: 35vw;
+	width: 35vw;
+	font-size: 22px;
+	font-family: 'Barlow', sans-serif;
+}
+
+.title h1 {
+	text-align: center;
+	font-size: 65px;
+}
+
+.container {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
