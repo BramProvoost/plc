@@ -1,7 +1,7 @@
 body {
 	background-color: #3B4288;
 	color:white;
-	font-family: 'Archivo Black', sans-serif;
+	/* font-family: 'Archivo Black', sans-serif; */
 	word-wrap: break-word;
 }
 
@@ -23,7 +23,7 @@ body {
 	/* max-width: 35vw; */
 	/* width: 35vw; */
 	font-size: 20px;
-	font-family: 'Barlow', sans-serif;
+	/* font-family: 'Barlow', sans-serif; */
 }
 
 .title h1 {
@@ -55,9 +55,16 @@ body {
 	text-align: center;
 }
 
+.grid-item h2 {
+	/* max-width: 35vw; */
+	/* width: 35vw; */
+	font-size: 32px;
+	font-family: 'Barlow', sans-serif;
+}
+
 .grid-item p {
 	/* max-width: 35vw; */
 	/* width: 35vw; */
-	font-size: 30px;
+	font-size: 22px;
 	font-family: 'Barlow', sans-serif;
 }
